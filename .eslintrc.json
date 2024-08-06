@@ -1,0 +1,9 @@
+{
+  "extends": ["next", "next/core-web-vitals", "prettier"],
+  "plugins": ["@typescript-eslint"],
+  "parserOptions": {
+    "project": "./tsconfig.json"
+  },
+  "rules": {
+  }
+}
